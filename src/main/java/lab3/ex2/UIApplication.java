@@ -16,6 +16,7 @@ public class UIApplication extends Application{
 		stage.setScene(scene);
 		stage.setTitle("Lab 3");
 		stage.show();
+		//Test
 }
 
 	
